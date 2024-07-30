@@ -7,6 +7,7 @@
     <list default="true" id="40fda0f0-19a1-43a0-baaf-8c0529a65739" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\renat\Estudos_ciencia_de_dados\Python\Python_60_days\weather-forecast-data-app\images" />
       <recent name="C:\Users\renat\Estudos_ciencia_de_dados\Python\Python_60_days\weather-forecast-data-app\exercise\exercise1" />
     </key>
   </component>
